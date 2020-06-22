@@ -1,0 +1,30 @@
+{
+  "name": "nodecrud",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "khan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "email-validator": "^2.0.4",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mongoose": "^5.6.13"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaid5548/AdminNode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zaid5548/AdminNode/issues"
+  },
+  "homepage": "https://github.com/zaid5548/AdminNode#readme",
+  "description": ""
+}
